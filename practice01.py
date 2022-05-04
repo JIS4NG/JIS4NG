@@ -5,3 +5,5 @@ for name in names:
         "저는 지상입니다.\n\n"
         "안녕히가세요.")
         email_file.write(contents)
+fender = 25
+print(fender)
